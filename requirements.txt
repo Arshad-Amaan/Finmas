@@ -1,0 +1,6 @@
+# No required dependencies (pure Python stdlib)
+# Optional:
+# yfinance    # real market data (--real flag)
+# transformers # free local LLM (Hugging Face)
+# torch        # required by transformers
+# anthropic   # Claude API alternative
